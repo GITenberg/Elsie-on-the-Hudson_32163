@@ -1,0 +1,37 @@
+_repo: Elsie-on-the-Hudson_32163
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Farquharson, Martha
+    - Cousin Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: Evelyn invites the family to join her at Crag Cottage, on the Hudson
+  River. En route, the Travillas, Lelands, and Raymonds visit many historic sites
+  and learn about the Revolutionary War. Meanwhile, Grandma Elsie and Annis visit
+  relatives in Ohio. Adventure comes when the burglar whom Lulu captured escapes from
+  prison, and seeks revenge.
+gutenberg_issued: '2010-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Christian fiction'
+title: Elsie on the Hudson
+url: http://www.gutenberg.org/ebooks/32163
